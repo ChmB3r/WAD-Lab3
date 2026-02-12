@@ -37,9 +37,9 @@ Welcome to my repository! This project contains information about me, my hobbies
    ```
 7. Open a browser and visit:
    ```bash
-   http://127.0.0.1:8000/about
-   http://127.0.0.1:8000/hobbies
-   http://127.0.0.1:8000/skills
+   http://127.0.0.1:8000/
+   http://127.0.0.1:8000/aboutme
+   http://127.0.0.1:8000/acadbackground
    ```
 
 
