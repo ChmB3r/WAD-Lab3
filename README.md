@@ -1,7 +1,7 @@
 # WAD-Lab3-Portfolio
 
 ## Project Description
-Welcome to my repository! This project contains information about me, my hobbies, and my skills
+Welcome to my repository! This project contains information about me, my hobbies, and my skills and anything about me.
 
 ## Screenshots
 
