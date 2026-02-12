@@ -4,7 +4,8 @@
 Welcome to my repository! This project contains information about me, my hobbies, and my skills
 
 ## Screenshots
-<img width="1366" height="729" alt="image" src="" />
+<img width="1366" height="729" alt="image" src="<img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/e7ef7ea1-ea79-4f57-9e62-b7d39dc644ea" />
+" />
 <img width="1366" height="725" alt="image" src="" />
 <img width="1366" height="722" alt="image" src="" />
 
