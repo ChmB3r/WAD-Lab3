@@ -12,11 +12,11 @@ Welcome to my repository! This project contains information about me, my hobbies
 
 1. Clone the repository:
    ```bash
-   https://github.com/mikyuut/WAD-Lab3-Portfolio.git
+   https://github.com/ChmB3r/WAD-Lab3.git
    ```
 2. Navigate the project directory:
    ```
-   cd Portfolio
+   cd WAD-Lab3
    ```
 3. Install PHP dependecies:
    ```bash
