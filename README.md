@@ -4,10 +4,10 @@
 Welcome to my repository! This project contains information about me, my hobbies, and my skills
 
 ## Screenshots
-<img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/e7ef7ea1-ea79-4f57-9e62-b7d39dc644ea" />
+
 <img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/05102fbd-d646-4a29-8099-a30ba7995ca4" />
 <img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/d7153a04-ee13-476c-9b38-e652fc3f2c87" />
-
+<img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/e7ef7ea1-ea79-4f57-9e62-b7d39dc644ea" />
 
 ## How to run the Project Locally
 
