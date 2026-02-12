@@ -5,9 +5,8 @@ Welcome to my repository! This project contains information about me, my hobbies
 
 ## Screenshots
 <img width="1366" height="729" alt="image" src="<img width="1920" height="989" alt="image" src="https://github.com/user-attachments/assets/e7ef7ea1-ea79-4f57-9e62-b7d39dc644ea" />
-" />
-<img width="1366" height="725" alt="image" src="" />
-<img width="1366" height="722" alt="image" src="" />
+<img width="1366" height="725" alt="image" src="<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/05102fbd-d646-4a29-8099-a30ba7995ca4" />
+<img width="1366" height="722" alt="image" src="<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/a956c7ad-3c76-4b6b-bf4f-1c5745b410ba" />
 
 ## How to run the Project Locally
 
